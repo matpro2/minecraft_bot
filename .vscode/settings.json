@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "package*.json": false,
+    "tsconfig*.json": false,
+    "vite.config.ts": false,
+    "metadata.json": false,
+    ".gitignore": false,
+    ".env": false,
+    "README.*": false
+  }
+}

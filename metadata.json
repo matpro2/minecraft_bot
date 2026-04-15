@@ -1,0 +1,5 @@
+{
+  "name": "Minecraft AI Bot",
+  "description": "A web interface to control a Minecraft AI bot using mineflayer.",
+  "requestFramePermissions": []
+}
